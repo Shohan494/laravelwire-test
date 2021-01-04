@@ -3,7 +3,9 @@
     @livewireStyles
 </head>
 <body>
-<h1>Hello!</h1>
+<h1>Posts</h1>
+<hr>
+    @livewire('show-posts')
     @livewireScripts
 </body>
 </html>
